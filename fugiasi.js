@@ -1,0 +1,3 @@
+<script type="module">
+  import { ethers } from "https://www.example.com  // Your code here...
+</script>
